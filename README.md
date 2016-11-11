@@ -25,7 +25,7 @@ https://s3-eu-west-1.amazonaws.com/handwriting-curated-database/curated.tar.gz
 
 ## Python code
 
-- transformationipynb: This notebook contains the code to apply over the database to perform the transformation described in the paper  "Using Synthetic Character Database for Training Deep Learning Models Applied to Offline Handwritten Character Recognition"
+- transformation.ipynb: This notebook contains the code to apply over the database to perform the transformation described in the paper  "Using Synthetic Character Database for Training Deep Learning Models Applied to Offline Handwritten Character Recognition"
 
 
 ## References
