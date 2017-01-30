@@ -4,7 +4,7 @@ This offline character database was obtained from the UNIPEN online handwriting 
 
 To generate this new database, the trajectories obtained from the original UNIPEN online handwritting database was used. Variable-thickness strokes are used depending on the original resolution of the characters to ensure that allfinal characters have similar thickness. The images from each available category (i.e. dfferent types of alphabet characters) are generated: up-percase, lowercase, digits and punctuation marks. These generated images are resized to 64x64 pixels without changing their aspect ratio. Finally, the generated images are curated manually, one by one, to make sure that they are assigned to their correct category and are human-legible.
 
-This database contains 93 categories and a total of 62,382 image characters in grayscale.
+This database contains 93 categories and a total of 62,382 image characters in grayscale organized in 93 folders, one for each different character. The folder name are assigned using the ascii numeric code of the character. 
 
 
 ## Characters included in the database
