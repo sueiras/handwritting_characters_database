@@ -17,6 +17,9 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z f | g ~
 https://s3-eu-west-1.amazonaws.com/handwriting-curated-database/curated.tar.gz
 
 
+## Split
+In the split directory we provide the Train/Validaton/Test split used.
+
 
 ## Publications that use this database
 
